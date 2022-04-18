@@ -1,9 +1,4 @@
 ### whoami
-
-- Interested in cyber security and software engineering.
-- Currently studying at University of Jyväskylä.
-
-
-
-
-
+- 22 years old from Finland
+- Interested in cyber security, OSINT and software engineering.
+- Studying computer science in University of Jyväskylä
