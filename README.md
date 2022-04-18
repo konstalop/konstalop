@@ -1,5 +1,9 @@
-### Hi there 👋
+### whoami
 
-Interested in Cyber security and software engineering, second year student @ JYU
+- Interested in cyber security and software engineering.
+- Currently studying at University of Jyväskylä.
+
+
+
 
 
